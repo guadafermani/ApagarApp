@@ -1,0 +1,8 @@
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.csprojAssemblyReference.cache
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.Properties.Resources.resources
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.csproj.GenerateResource.cache
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desktop\ApagarApp\bin\Debug\ApagarApp.exe
+C:\Users\Guada\Desktop\ApagarApp\bin\Debug\ApagarApp.pdb
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.exe
+C:\Users\Guada\Desktop\ApagarApp\obj\Debug\ApagarApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Guada\Desktop\ApagarApp\bin\Release\ApagarApp.exe
+C:\Users\Guada\Desktop\ApagarApp\bin\Release\ApagarApp.pdb
+C:\Users\Guada\Desktop\ApagarApp\obj\Release\ApagarApp.Properties.Resources.resources
+C:\Users\Guada\Desktop\ApagarApp\obj\Release\ApagarApp.csproj.GenerateResource.cache
+C:\Users\Guada\Desktop\ApagarApp\obj\Release\ApagarApp.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desktop\ApagarApp\obj\Release\ApagarApp.exe
+C:\Users\Guada\Desktop\ApagarApp\obj\Release\ApagarApp.pdb
